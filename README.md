@@ -1,14 +1,17 @@
-<div align="center">
-
-### `shivansh19-git` — `README.md`
-
-</div>
-
-<table style="border-collapse: collapse; padding: 0; margin: 0;">
-<tr style="padding: 0; margin: 0;">
-<td style="vertical-align: top; padding: 0; margin: 0;">
+<table
+  width="100%"
+  cellspacing="0"
+  cellpadding="0"
+  style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;"
+>
+<tr style="margin: 0; padding: 0;">
+<td
+  width="58%"
+  valign="top"
+  style="margin: 0; padding: 0; border: 0;"
+>
 <sub><sup><sub>
-<pre style="font-size: 4.8px; line-height: 0; letter-spacing: 1px; font-family: monospace; margin: 0; padding: 0;">
+<pre>
 
 ```
                :        :  :::                                                                   -:--------------*-================================-*-=== 
@@ -99,8 +102,8 @@
 </td>
 <td width="42%" valign="top">
 
-<pre style="font-size: 11.8px; line-height: 1.38; font-family: monospace; margin: 0; padding: 18px;">
-shivansh19@github
+<pre >
+<h3>Shivansh Pathak</h3>
 ------------------
 
 Education ............ IIIT Agartala
@@ -120,7 +123,6 @@ GenAI ................. LLMs, RAG, Embeddings
 
 Backend ............... FastAPI
 
-  
 Tools .................. Git, GitHub, Docker, Streamlit
 
 Building .............. AI-powered applications
@@ -129,9 +131,7 @@ Solving ............... DSA / LeetCode / CodeForces
 
 Interests ............. AI Systems · SWE · GenAI
 
-
 GitHub ................ github.com/shivansh19-git
-
 
 </pre>
 
@@ -164,65 +164,9 @@ I enjoy building things end-to-end, from low-level programming and compiler-styl
 | **Languages** | C++, Python, JavaScript, SQL |
 | **AI / ML** | PyTorch, scikit-learn, XGBoost, LightGBM |
 | **GenAI** | LLMs, RAG, Embeddings, Vector Search |
-| **Backend** | FastAPI, Flask, REST APIs |
+| **Backend** | FastAPI |
 | **Data / Audio** | NumPy, Pandas, Matplotlib, Librosa |
 | **Tools** | Git, GitHub, Docker, Streamlit |
-
----
-
-## `~/projects`
-
-### 🎧 [Audio Analyzer](https://github.com/shivansh19-git/Audio-Analyzer)
-
-**Singing Performance Evaluation System**
-
-An intelligent audio-analysis application combining digital signal processing and machine learning to evaluate singing performance.
-
-**Pitch · Rhythm · Emotion · MFCC · DTW · PYIN**
-
-`Python` `Flask` `Librosa` `NumPy` `Scikit-learn`
-
----
-
-### 🔄 C++ → Python Transpiler
-
-A compiler-style project for converting C++ code into Python using lexical analysis, parsing, and code generation.
-
-`C++` `Python` `Lexer` `Parser` `AST` `Code Generation`
-
----
-
-### 🧠 RAG / GenAI Systems
-
-Building document-grounded AI applications around:
-
-`LLMs` `Embeddings` `Vector Search` `RAG` `ChromaDB`
-
-The goal is to understand how complete AI applications are designed rather than stopping at a basic chatbot.
-
----
-
-## `~/currently`
-
-```text
-[ learning ]   PyTorch · Deep Learning · NLP
-[ building ]   AI-powered applications
-[ solving  ]   DSA / LeetCode
-[ exploring ]   GenAI · RAG · Backend Systems
-[ improving ]   Software Engineering fundamentals
-```
-
----
-
-## `~/github`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivansh19-git&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh19-git&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-
-</div>
 
 ---
 
