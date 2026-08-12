@@ -7,6 +7,7 @@
 <table style="border-collapse: collapse; padding: 0; margin: 0;">
 <tr style="padding: 0; margin: 0;">
 <td style="vertical-align: top; padding: 0; margin: 0;">
+<sub><sup><sub>
 <pre style="font-size: 4.8px; line-height: 0; letter-spacing: 1px; font-family: monospace; margin: 0; padding: 0;">
 
 ```
@@ -92,13 +93,13 @@
  :::::::::-::-::-::::::: :     : :::        :    %)>>){  ::::::-:::::--::=-====-**==========*>>>>>))[>  =--:-----=*=*>* -:-::----===-*===-:-----:-------- 
  ::::::::--::-::::::::::-:  ::  ::::            =@(>>>[>: -::--:---:::::----=============-==**>*>)>))  :--------===**)= ::::-:-------*=**--:----::------- 
  :::::::--:--::::::::::::: :     :  : :         :[()>)()-   ----- ---:::-------=============*>*))))(>  :-----=-===-**( --:--:::-:---=*=*=-::------::----- 
-                                                                                                                                                          
 ```
+</sub></sup></sub>
+</pre>
 </td>
 <td width="42%" valign="top">
 
-<pre style="font-size: 11.2px; line-height: 1.38; font-family: monospace; margin: 0; padding: 18px;">
-
+<pre style="font-size: 11.8px; line-height: 1.38; font-family: monospace; margin: 0; padding: 18px;">
 shivansh19@github
 ------------------
 
@@ -119,6 +120,7 @@ GenAI ................. LLMs, RAG, Embeddings
 
 Backend ............... FastAPI
 
+  
 Tools .................. Git, GitHub, Docker, Streamlit
 
 Building .............. AI-powered applications
@@ -126,6 +128,7 @@ Learning .............. Deep Learning & NLP
 Solving ............... DSA / LeetCode / CodeForces
 
 Interests ............. AI Systems · SWE · GenAI
+
 
 GitHub ................ github.com/shivansh19-git
 
